@@ -1,11 +1,14 @@
 ## Hi, I'm Otis 👋
 
-Software Engineer II at **Microsoft** (Azure Core Insights). I build large-scale
-data infrastructure, ML reliability systems, and the occasional geospatial side project.
+Software Engineer II at **Microsoft** (Azure Core Insights). I build and operate
+large-scale backend and data systems — services, pipelines, and the infrastructure
+that keeps them reliable at fleet scale.
 
-- 🔭 At work: petabyte-scale Kusto/ADX pipelines and ML systems that predict and
-  prevent hardware failures across Azure's global fleet.
-- 🧠 Interests: data engineering, ML reliability, MCP/agentic tooling, and maps.
+- 🔭 At work: petabyte-scale data pipelines and ML systems that predict and
+  prevent hardware failures across Azure's global fleet — ingestion, orchestration,
+  and the deployment systems behind them.
+- 🧠 Focus: backend services, distributed data systems, reliability, and
+  API/agentic tooling.
 - 📍 Seattle, WA
 - 📝 Co-author, *[AFPD: System for Prediction, Mitigation and Remediation of Node
   Interruptions in Cloud Infrastructure](https://ieeexplore.ieee.org/document/11108193)*
@@ -29,9 +32,12 @@ Validated against the 20.9M-row NYC TLC dataset.
 
 ### Tech I work with
 
-`Python` · `C#` · `SQL` · `KQL` · `TypeScript` · `Scala`
-`Azure Data Explorer (Kusto)` · `Databricks` · `Spark` · `PostgreSQL` · `Docker`
-`PyTorch` · `MLflow` · `Hyperopt` · `MCP` · `RAG`
+**Backend & data:** `Python` · `FastAPI` · `SQL` · `KQL` · `PostgreSQL / PostGIS` ·
+`SQLAlchemy` · `REST APIs` · `Docker`
+**Cloud & infra:** `Azure` (App Service, ACR, Functions) · `Azure Data Explorer (Kusto)` ·
+`Databricks` · `Spark`
+**ML & tooling:** `PyTorch` · `MLflow` · `Hyperopt` · `MCP` · `RAG` · `DuckDB`
+**Also work in:** `C#` · `TypeScript` · `Scala`
 
 ### Connect
 
