@@ -32,11 +32,12 @@ Validated against the 20.9M-row NYC TLC dataset.
 
 ### Tech I work with
 
-**Backend & data:** `Python` · `FastAPI` · `SQL` · `KQL` · `PostgreSQL / PostGIS` ·
-`SQLAlchemy` · `REST APIs` · `Docker`
-**Cloud & infra:** `Azure` (App Service, ACR, Functions) · `Azure Data Explorer (Kusto)` ·
-`Databricks` · `Spark`
+**Backend & data:** `Python` · `FastAPI` · `SQL` · `KQL` · `PostgreSQL / PostGIS` · `SQLAlchemy` · `REST APIs` · `Docker`
+
+**Cloud & infra:** `Azure` (App Service, ACR, Functions) · `Azure Data Explorer (Kusto)` · `Databricks` · `Spark`
+
 **ML & tooling:** `PyTorch` · `MLflow` · `Hyperopt` · `MCP` · `RAG` · `DuckDB`
+
 **Also work in:** `C#` · `TypeScript` · `Scala`
 
 ### Connect
