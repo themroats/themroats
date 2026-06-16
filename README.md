@@ -14,12 +14,12 @@ data infrastructure, ML reliability systems, and the occasional geospatial side 
 
 ### Featured projects
 
-**[Pac-Mapper](https://github.com/themroats/pac-mapper)** — Full-stack geospatial app
-that ingests Strava activities and map-matches GPS traces against ~300K OpenStreetMap
-streets per city using PostGIS, visualizing street-level coverage with Leaflet.
-Two-phase async pipeline with GiST spatial pre-filtering and OSRM route optimization.
-Deployed on Azure (App Service, ACR, PostgreSQL Flexible Server).
-`Python` · `PostGIS` · `TypeScript` · `Leaflet` · `Docker` · `Azure`
+**[Pac-Man Tracker](https://github.com/themroats/pacman-tracker)** — Full-stack
+geospatial app that ingests Strava activities and map-matches GPS traces against
+OpenStreetMap streets using PostGIS, visualizing street-level coverage with Leaflet —
+like Pac-Man eating dots on a map. FastAPI + React, with OSRM route suggestions through
+untraveled streets. Deployed on Azure (App Service, ACR, PostgreSQL Flexible Server).
+`Python` · `FastAPI` · `PostGIS` · `React` · `TypeScript` · `Leaflet` · `OSRM` · `Azure`
 
 **[mcp-data-detective](https://github.com/themroats/mcp-data-detective)** — An MCP
 server that turns any LLM into an interactive data-engineering copilot: connect,
