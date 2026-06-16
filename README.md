@@ -17,12 +17,13 @@ that keeps them reliable at fleet scale.
 
 ### Featured projects
 
-**[Pac-Man Tracker](https://github.com/themroats/pacman-tracker)** is for runners and
+**[Pac-Mapper](https://github.com/themroats/pacman-tracker)** is for runners and
 cyclists trying to cover every street in their city. It syncs Strava activities,
 map-matches GPS traces against OpenStreetMap streets using PostGIS, visualizes
 street-level coverage with Leaflet, and suggests OSRM routes to explore an entire city,
 like Pac-Man eating dots on a map. Built with FastAPI + React, deployed on Azure
 (App Service, ACR, PostgreSQL Flexible Server).
+[Live demo](https://www.pacmapper.com) · [Code](https://github.com/themroats/pacman-tracker)
 `Python` · `FastAPI` · `PostGIS` · `React` · `TypeScript` · `Leaflet` · `OSRM` · `Azure`
 
 **[mcp-data-detective](https://github.com/themroats/mcp-data-detective)** is an MCP
